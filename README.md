@@ -26,11 +26,13 @@ A curated list of awesome Solana Model Context Protocol (MCP) servers and relate
 - [Memecoin Observatory MCP](https://github.com/tony-42069/solana-mcp.git) - A comprehensive Solana MCP server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data. Features real-time memecoin radar, social signal analysis, whale wallet tracking, and rugpull protection.
 - [Solana Wallet Security Scanner](https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner) - A MCP server that implements a Solana security analysis system. It allows users to scan wallets for threats, detect suspicious programs, and provides tools for monitoring blockchain activity via @solana/web3.js.
 - [MCP Meme Deployer](https://github.com/kirabuilds/mcp-meme-deployer) - A Model Context Protocol (MCP) server that allows Claude Desktop to deploy instantly tradable tokens on Solana at zero cost with just a simple conversation.
+- [Sentinel MCP Server](https://github.com/sentinel-seed/sentinel) - An AI safety validation server implementing the THSP (Truth-Harm-Scope-Purpose) protocol for Solana transactions. Protects AI agents from executing harmful, unauthorized, or suspicious blockchain operations with configurable validation gates and risk assessment.
 
 
 ## Tools and Libraries
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - A toolkit for connecting AI agents to Solana protocols. Features cross-chain operations, token management, Voltr vault interactions, and multi-agent system support with LangGraph.
 - [GOAT SDK](https://github.com/goat-sdk/goat) - A framework for building and integrating GenAI features with built-in MCP support. Includes tool management, Dev UI playground, and cross-model compatibility.
+- [Sentinel SAK Plugin](https://github.com/sentinel-seed/sentinel/tree/main/integrations/solana-agent-kit/typescript) - A native Solana Agent Kit v2 plugin providing transaction safety validation using the THSP protocol. Validates transfers, swaps, and DeFi operations before execution with configurable risk thresholds.
 
 ## Resources
 - [Model Context Protocol Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart) - A comprehensive guide covering MCP protocol basics, server implementation, client setup, and early adoption use cases. Includes practical examples and Claude Desktop integration.
