@@ -28,6 +28,7 @@ A curated list of awesome Solana Model Context Protocol (MCP) servers and relate
 - [MCP Meme Deployer](https://github.com/kirabuilds/mcp-meme-deployer) - A Model Context Protocol (MCP) server that allows Claude Desktop to deploy instantly tradable tokens on Solana at zero cost with just a simple conversation.
 
 
+- [Token RugCheck MCP Server](https://github.com/AetherCore-Dev/token-rugcheck) - A Solana token safety audit MCP server for AI agents. Provides three-layer risk analysis (machine verdict + LLM analysis + raw on-chain evidence) by cross-referencing RugCheck.xyz, DexScreener, and GoPlus Security. Live on mainnet with real USDC micropayments via ag402 x402 protocol at $0.02 per audit.
 ## Tools and Libraries
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - A toolkit for connecting AI agents to Solana protocols. Features cross-chain operations, token management, Voltr vault interactions, and multi-agent system support with LangGraph.
 - [GOAT SDK](https://github.com/goat-sdk/goat) - A framework for building and integrating GenAI features with built-in MCP support. Includes tool management, Dev UI playground, and cross-model compatibility.
