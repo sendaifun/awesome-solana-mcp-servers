@@ -37,6 +37,16 @@ A curated list of awesome Solana Model Context Protocol (MCP) servers and relate
 - [Model Context Protocol Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart) - A comprehensive guide covering MCP protocol basics, server implementation, client setup, and early adoption use cases. Includes practical examples and Claude Desktop integration.
 - [Add helpful resources here] - Documentation, tutorials, blog posts, videos, debugging guides, and best practices for MCP development.
 
+## Setup
+
+- This repository is an awesome list and does not ship MCP binaries directly.
+- For each entry, follow the linked repository's install and setup docs.
+- Prefer keeping MCP client instructions (e.g., Claude Desktop/Cursor config) in the linked project documentation.
+
+## Environment
+
+Each MCP server has its own credentials and environment requirements (API keys, RPC URLs, auth tokens). Check the linked project README before running.
+
 ## Contents
 
 ### What is Model Context Protocol (MCP)?
@@ -59,3 +69,7 @@ MCP servers can be integrated with various clients including:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before adding entries.
