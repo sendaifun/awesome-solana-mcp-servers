@@ -28,6 +28,8 @@ A curated list of awesome Solana Model Context Protocol (MCP) servers and relate
 - [MCP Meme Deployer](https://github.com/kirabuilds/mcp-meme-deployer) - A Model Context Protocol (MCP) server that allows Claude Desktop to deploy instantly tradable tokens on Solana at zero cost with just a simple conversation.
 
 
+- [AgentServices Market Data MCP Server](https://github.com/vbkotecha/agentservices-api) - A cross-chain market data MCP server providing 37 tools for crypto prices, on-chain analytics, DeFi data, and market intelligence. Features x402 on-chain USDC micropayments ($0.01/call) on Base, with support for Solana, Ethereum, and 50+ other chains.
+
 ## Tools and Libraries
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - A toolkit for connecting AI agents to Solana protocols. Features cross-chain operations, token management, Voltr vault interactions, and multi-agent system support with LangGraph.
 - [GOAT SDK](https://github.com/goat-sdk/goat) - A framework for building and integrating GenAI features with built-in MCP support. Includes tool management, Dev UI playground, and cross-model compatibility.
