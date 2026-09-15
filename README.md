@@ -34,6 +34,7 @@ A curated list of awesome Solana Model Context Protocol (MCP) servers and relate
 
 ## Resources
 - [Model Context Protocol Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart) - A comprehensive guide covering MCP protocol basics, server implementation, client setup, and early adoption use cases. Includes practical examples and Claude Desktop integration.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 - [Add helpful resources here] - Documentation, tutorials, blog posts, videos, debugging guides, and best practices for MCP development.
 
 ## Contents
