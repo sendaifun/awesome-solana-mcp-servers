@@ -26,6 +26,7 @@
 - [Memecoin Observatory MCP](https://github.com/tony-42069/solana-mcp.git) - 一个全面的 Solana MCP 服务器，用于分析迷因币、跟踪趋势，并通过文化分析和链上数据提供 AI 驱动的见解。具有实时迷因币雷达、社交信号分析、鲸鱼钱包跟踪和跑路保护功能。
 - [Solana Wallet Security Scanner](https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner) - 一个实现 Solana 安全分析系统的 MCP 服务器。它允许用户扫描钱包威胁，检测可疑程序，并提供通过 @solana/web3.js 监控区块链活动的工具。
 - [MCP Meme Deployer](https://github.com/kirabuilds/mcp-meme-deployer) - 一个模型上下文协议（MCP）服务器，允许 Claude Desktop 通过简单的对话在 Solana 上以零成本部署即时可交易的代币。
+- [Cabal Radar MCP Server](https://github.com/c-viper-work/cabal-radar-mcp) - 零外部依赖的 Solana 与 Base 代币风险情报 MCP 服务器与 CLI 工具，支持 SPL 与 Token-2022 权限/危险扩展检测、创世区块同 Slot 捆绑交易与 Jito 小费识别、以及前排持仓母钱包同源注资聚类分析。
 
 ## 工具和库
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - 用于将 AI 代理连接到 Solana 协议的工具包。具有跨链操作、代币管理、Voltr 金库交互和基于 LangGraph 的多代理系统支持。
